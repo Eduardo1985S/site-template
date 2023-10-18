@@ -35,3 +35,15 @@ git remote add origin https://github.com/Eduardo1985S/site-template.git
 git push -u origin main
 ```
 
+# Ative o GitHub Pages
+No repositório do GitHub, vá para a aba "Settings" (Configurações).
+
+Role para baixo até encontrar a seção "GitHub Pages".
+
+No menu suspenso "Source" (Origem), selecione "main branch" para usar a branch principal como fonte.
+
+Clique em "Save" (Salvar).
+
+Aguarde alguns minutos para que o GitHub Pages seja ativado.
+
+Após a ativação, você encontrará o link para o seu site no formato: https://seu-usuario.github.io/meu-site.
