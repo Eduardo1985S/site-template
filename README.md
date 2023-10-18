@@ -19,4 +19,19 @@ Este repositório contém as instruções e os recursos necessários para criar 
 2. Crie um novo repositório no GitHub, dando-lhe um nome descritivo, como "meu-site".
 
 3. No seu computador, instale o Git se ainda não o fez e configure a sua identidade usando os comandos:
+```bash
+git config --global user.name "Seu Nome"
+git config --global user.email "seu-email@example.com"
+```
+
+4. No seu terminal, navegue até o diretório onde estão os arquivos do seu site e execute os seguintes comandos:
+
+```bash
+git init
+git add .
+git commit -m "Primeiro commit: Adicionando meu site"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/meu-site.git
+git push -u origin main
+```
 
