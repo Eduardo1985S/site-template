@@ -46,6 +46,10 @@ main {
     margin-left: 270px;
     padding: 20px;
 }
+img{
+    width: 120px;
+    margin: 10px;
+}
 
 /* Ícones FontAwesome (é necessário incluir a biblioteca FontAwesome) */
 i.fas {
