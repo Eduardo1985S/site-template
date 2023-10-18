@@ -29,9 +29,9 @@ git config --global user.email "seu-email@example.com"
 ```bash
 git init
 git add .
-git commit -m "Primeiro commit: Adicionando meu site"
+git commit -m "Primeiro commit: Adicionando paginas..."
 git branch -M main
-git remote add origin https://github.com/seu-usuario/meu-site.git
+git remote add origin https://github.com/Eduardo1985S/site-template.git
 git push -u origin main
 ```
 
