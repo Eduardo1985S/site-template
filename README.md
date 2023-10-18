@@ -1,5 +1,7 @@
 # Criando e Hospedando um Site no GitHub Pages
 
+https://eduardo1985s.github.io/site-template/
+
 Este repositório contém as instruções e os recursos necessários para criar um site simples e hospedá-lo no GitHub Pages. Siga os passos abaixo para começar:
 
 ## Passo 1: Crie o Seu Site
